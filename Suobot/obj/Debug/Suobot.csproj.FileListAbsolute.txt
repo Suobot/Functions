@@ -1,0 +1,2 @@
+C:\Users\Roman\source\repos\Suobot\Suobot\obj\Debug\Suobot.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\Suobot\Suobot\obj\Debug\Suobot.csproj.CoreCompileInputs.cache
